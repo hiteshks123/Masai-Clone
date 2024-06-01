@@ -1,0 +1,247 @@
+@media screen and (min-width: 515px) {
+
+
+
+    .button .btn1,
+    .button .btn2 {
+        font-size: 19px;
+        height: 50px;
+        width: 120px;
+
+    }
+
+    .content .PEN h1 {
+        font-weight: 700;
+        font-size: 30px;
+        /* margin-top: 65px; */
+
+    }
+
+    .PEN p {
+        font-size: 20px;
+
+    }
+
+ 
+    .header .title {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: space-around;
+        padding: 8px;
+    }
+
+    .header .content1 .maal {
+        color: rgb(237 3 49);
+        margin-left: 8px;
+
+    }
+
+    .header .content1 h1 {
+        font-size: 22px;
+        font-weight: 700;
+
+
+    }
+
+    .header .content1 .moye {
+        margin-left: -90px;
+    }
+
+    .header .content1 .image {
+        position: relative;
+        left: 150px;
+        right: 0;
+        top: -30px;
+        width: 193px;
+
+    }
+
+    .header .bhasad {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 12px;
+        margin-top: -20px;
+    }
+
+    .header .content2 img {
+        max-height: 450px;
+        max-width: 80%;
+        margin-left: 55px;
+        z-index: 2000;
+        margin-top: -500px;
+
+
+    }
+
+    .header .MESSAGE {
+        padding: 12px;
+        height: 80%;
+        width: 80%;
+        margin-top: -70px;
+        /* z-index: 2500px;
+            opacity: 2; */
+    }
+
+    .header .message .name img {
+
+        height: 20px;
+        width: 105px;
+        border: none;
+        margin-top: -30px;
+        margin-left: -8px;
+    }
+
+    .header .content2::before {
+        content: '';
+        z-index: 2;
+        min-height: 500px;
+        min-width: 75%;
+        position: relative;
+        /* margin-right: 825px; */
+        top: 70px;
+        /* opacity: 1; */
+        /* left: 60rem; */
+        display: flex;
+        /* flex-direction: column; */
+        /* left: 0; */
+        /* right: 0; */
+        /* width: 50%; */
+        /* margin: 75px 0 0 83px; */
+        /* box-sizing:content-box; */
+        /* background-color: #9ad3d5; */
+        border: 2px groove rgba(16, 96, 215, 0.2);
+        border-radius: 40px;
+        /* z-index: -1; */
+        /* background-color:transparent; */
+        /* transition:cubic-bezier(0.075, 0.82, 0.165, 1) */
+        transform: rotate(-17deg);
+        transform: rotate(-17deg);
+        /* padding:5px -22px 12px0; */
+        /* padding-left: -3px; */
+
+    }
+
+
+  
+    .car3 .po .prep {
+        /* margin-top: 2px; */
+        /* display: flex; */
+        /* padding: 12px; */
+    }
+
+    .carrer .core .core1 {
+
+        width: 450px;
+    }
+
+    .car3 .po .rocket {
+        font-size: 45px;
+
+        background-color: transparent;
+        border: 1px solid black;
+        border-radius: 0 0 30px 30px;
+        background-color: #1A9FBD;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 64px;
+        width: 20%;
+        border: none;
+        outline: none;
+        color: whitesmoke;
+        box-shadow: 0px 6px 34px 0px rgba(215, 216, 222);
+        position: relative;
+        left: -10px;
+
+
+        
+    }
+
+
+    .best1 h1 {
+        font-size: 28px;
+        color: whitesmoke;
+        padding: 12px;
+
+    }
+
+    .best .best3 button {
+        font-size: 20px;
+    }
+
+    
+    
+
+
+    
+
+   
+
+   
+
+   
+
+
+    .student1 .title{
+        display: flex;
+    }
+
+    .student1 span {
+        /* font-size: 20px; */
+    margin-left: 10px;
+        color: rgb(237 3 49);
+    }
+    .student1 .mau {
+        position: relative;
+        left: 60px;
+        top:-8px;
+        width: 218px;
+    }
+
+    .secondlast {
+        max-height: 140vh;
+        width: 100%;
+        background-color: rgb(242 246 255);
+        /* background-color: black; */
+        /* display: flex;
+    flex-direction: row-reverse; */
+
+    }
+
+    .secondlast .secondlast1 {
+        max-height: 100vh;
+        width: 100%;
+        /* background-color: yellowgreen; */
+        /* margin-bottom: 10025px; */
+        /* display: flex; */
+        /* margin-top: 105px;
+   background-color: springgreen; */
+        /* margin-left: 125px; */
+    }
+
+    .para .pic2 {
+        display: none;
+    }
+
+     .elevate .ele1 .title{
+        display: flex;
+        flex-direction: row;
+        /* align-items: center;
+        justify-content: center; */
+     }
+     .title .pos{
+        margin-left: 8px;
+     }
+     .elevate .ele1 .mau{
+
+        position: relative;
+        left: -75px;
+        top: -10px;
+        /* bottom: 0px; */
+       width: 90px;
+        
+    }
+}
